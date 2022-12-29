@@ -124,3 +124,35 @@ Trovata lets finance and treasury teams access, build, manage, and control their
 ---
 ## References:
 [Trovata Official Site](https://trovata.io/)
+
+The Essential Treasury Reporting and Forecasting Guide
+Is manual data management still a thorn in your side? You are not alone! Many treasuries still rely on manual workflows to build out essential cash management reports and forecasts that are necessary to keep a pulse on their business.
+
+By digitizing your treasury operations and data management with reporting and forecasting best practices in mind, your treasury can gain global visibility into cash. Use these actionable tips to analyze, report, and forecast faster and more accurately.
+
+In this guide, you’ll learn how to:
+Build and maintain a cash forecast
+Optimize your account receivables and payables workflows
+Measure cash flow accuracy with variance reporting
+Achieve treasury efficiency with best-in-class reports and cash management automation
+
+Critical business decisions can’t wait on manual cash processes. 
+
+ 
+
+Trovata is an open banking platform that directly connects to your
+
+banks to aggregate transaction data into a single platform.
+
+Where is Trovata's headquarters? Trovata is located in San Diego, California, United States.
+Who invested in Trovata? Trovata has 8 investors including Capital One Ventures and Pivot Investment Partners.
+How much funding has Trovata raised to date? Trovata has raised $57.6M.
+When was the last funding round for Trovata? Trovata closed its last funding round on Jun 7, 2022 from a Series B round.
+Who are Trovata's competitors? Alternatives and possible competitors to Trovata may include Paystack, ErisX, and ContaAzul.
+
+
+About Trovata Trovata makes it easy for businesses to automate cash reporting, forecasting, and analysis. By bridging the gap between banks and accounting systems, Trovata is helping companies gain powerful insights into their cash flows that drive better and quicker business decisions. Today, Trovata is helping companies transform finance andtreasury operations using open banking and machine learning. With direct APIs with most major banks, new clients can get set up quickly. Trovata is based in San Diego, CA. To learn more visit www.trovata.io.
+
+
+
+
