@@ -1,96 +1,72 @@
-# Heading 1 - Module1-HW (Fintech)
-"Block quote"
+﻿# Module 1 Homework (Fintech)
 
-```python
 
-```
+# Case Study: Trovata - a company addressing Global 'Multi-Banking' Challenges via Open Banking and Machine Learning.
+Recent developments in Open Banking interfaces and the arrival of some financial consolidators app/fintechs (such as Plaid, Yodlee and Klarna) have made it possible for clients with multiple banking relationships to service all of their regular banking needs (such as Payment Initiation, Account Balances & Transaction Reporting and/or Data Analytics) via a single electronic channel/portal. Note that this is already a well-accepted and well-established offering in Europe (enabled mostly due to regulatory mandates such as the 'Second Payment Services Directive' i.e., PSD2 across Europe, which standardized Open Banking requests for Payment Initiation and Account Reporting across the banks operating in the region). In the US there currently is no comparable initiative from the banking community/regulator for standardization across banks, however the availability of Open Banking/API from most of these banks in the last few years has enabled several tech organizations (such as the aforementioned Plaid and Yodlee) to build interfaces to several banks and offer these connectivity solutions to businesses (i.e. other Fintechs) that may then supplement that with their own direct connectivity options and consolidate all of that data to create even more-value-added services such as Data Visualizations, Cash Forecasting, etc.
 
-## Heading 2
----
+One of the pioneers and the most successful Fintechs in this space is Trovata, and that is company that I have chosen to build a case-study on. 
 
-### Heading 3
----
-
-# Case Study: OPEN BANKING
-Recent developments in open banking interfaces and the arrival of some financial consolidators app/fintechs (such as Plaid, Yodlee, Klarna, etc) have made it possible for clients with multiple banking relationships to service all of their banking needs (such as Payment Initiation, Account Balances & Transaction Reporting and/or Data Analytics) via a single electronic channel/portal. Note that this is already a well-accepted and well-established offering in Europe (enabled mostly due to regulatory mandates such as the 'Second Payment Services Directive' i.e. PSD2 across Europe, which standardized Open Banking requests for Payment Initiation and Account Reporting across the banks operating in the region). In the US there currently is no comparable initiative from the banking community/regulator for standardization across banks, however the availability of Open Banking/API from most of these banks in the last few years has enabled several tech organizations (e.g., Plaid and Yodlee) to build interfaces to several banks and offer these connectivity solutions to businesses (i.e. Fintechs) that may then use that data to create even more-value-added services such as Dat Visualizations, Cash Forecasting, etc.
-
-The Fintech that I chose to build a case-study on is TROVATA. 
-
-TROVATA took on the task of - and successfully managed to - fill this gap. They harnessed all the latest available options made available by other Fintech such as the likes of Plaid and Yodlee (as also the inherent limitations in the individual banks' current offerings!) and built a service that allowed clients to consolidate, view and manage multiple banking accounts through a single interface regardless of the underlying banks that their clients have accounts with, making it easier for these businesses to see the full picture of all their finances!
-
-Trovata is an open banking platform that directly connects to your banks to aggregate transaction data into a single platform.
+Trovata took on the task of - and successfully managed to - come up with a single-banking channel portal, harnessing all the latest developments in Open Banking, Machine Learning, and also the inherent limitations in the individual banks' current Cash Management offerings to build a solution that allowed clients to consolidate, view and manage multiple banking accounts through a single interface,  making it easier for these businesses to see the full picture of all their finances across the various regions/banks that they operate in/deal with!  The value-added features made available by Trovata is automated cash reporting, cash forecasting, financial analysis, and money movement, helping companies gain powerful insights into their cash flows and facilitate better and quicker business decisions.
 
 
 ## Overview and Origin
 Trovata was incorporated in the year 2016 and is headquartered in San Diego, California, USA.
 
-Trovata has 8 investors including Capital One Ventures, Pivot Investment Partners, J.P. Morgan Chase & Co, Wells Fargo Strategic Capital and NAB Ventures. Trovata has raised US $57.6M till date from 7 rounds of funding, with the latest funding round (Series B) completed on 7th June, 2022.
+Trovata has a total 8 investors with the larger investments coming from Capital One Ventures, Pivot Investment Partners, J.P. Morgan Chase & Co, Wells Fargo Strategic Capital and NAB Ventures. Till date Trovata has raised a total of US $57.6M from 7 rounds of funding, with the latest funding round (Series B) completed on 7th June, 2022. One of the unique things about this Fintech is that some of the major backers of this firm are the same entities that it aims to disrupt i.e. Banks. However some of the largest banks such as J.P. Morgan Chase and Wells-Fargo have realized that they are not technology companies, choosing instead to invest in Trovata while focusing primarily on their core banking strengths and leveraging the specific strengths of a tech-savvy Fintech such as Trovata. 
 
-While Trovata has had first mover advanatage in the US, there are possible competitors on the horizon such as Braintree, ErisX, Paystack (Nigeria) and ContaAzul (Brazil). In addition, there are well-established local/region-specific competitors in Asia (Liquidice, India) and EMEA (Multicash, Germany), as also the global ERP and TMS providers such as SAP, Oracle Applications, etc, all of whom are in various stages of developing solutions similar to that from Trovata.
+The problems faced by large Corporates, especially the ones with multiple banking relationships with operations in locations in multiple locations throughout the globe are: 
 
-* Who are the founders of the company?
-Brett Turner (Founder & CEO), Joseph Drambarean (CTO)
-Advisors: Justin Brimfield, Board Member: Basil Darwish
+  (1) Differences in the Balance & Transaction Reporting capabilities between banks, thereby adding inefficiencies into the client's Account Balancing and Cash Concentration processes.
+
+  (2) Data mismatch/disparities between the client's ERP/Treasury Systems, account reporting from their banks and internal AP/AR Teams, thereby reducing the quality of the client's Cash Forecasts for Liquidity Planning.
+
+  (3) Differences between the Payment Initiation capabilities between banking providers forcing clients to build, maintain, monitor and frequently upgrade your custom connectivity with each Bank across the markets that they operate in.
+
+Trovata's core pitch to clients is a consolidated Open Banking platform that directly connects to various banks to aggregate transaction data into a single platform for their clients. This makes it easy for businesses to automate cash reporting, forecasting, and analysis. By bridging the gap between banks and clients' internal GL accounting/ERP systems, Trovata is helping companies gain powerful insights into their cashflows that drive better and quicker business decisions and helping companies transform finance and treasury operations using Machine Learning.
+
+Trovata at its heart is a data platform that automates cash workflows with no IT required to set up. Without Trovata, a solution of this scale and complexity would take corporations months to set up on their own and that too with significant investments in their own tech resources. For businesses, Trovata makes managing Cash very easy by automating much of the work it takes to prepare reports and forecasts that are essential to understand cash flow and make decisions to maintain or improve the financial health of the client's business. They also help users make payments from their banks’ payment rails directly with no third-party intermediary.
 
 
-* How did the idea for the company (or project) come about?
-
-Trovata makes it easy for businesses to automate cash reporting, forecasting, and analysis. By bridging the gap between banks and accounting systems, Trovata is helping companies gain powerful insights into their cashflows that drive better and quicker business decisions. Today, Trovata is helping companies transform finance and treasury operations using open banking and machine learning. With direct APIs with most major banks, new clients can get set up quickly.
+### Management Team: 
+The company was founded in 2016 by Brett Turner. Brett has had more than 20 years of experience in finance at both public and private high-growth companies (CPA at Deloitte; Finance Controller roles in various firms; SEC Reporting at Amazon; and CFO of three tech startups since 2005). He leveraged his ringside view of the Cash & Reporting problems faced by his erstwhile Treasury and Accounting teams and also foresaw the transformation of enterprise technology by SAAS and Cloud Computing and translated all of that into Trovata's core offering. He very much is still associated with Trovata and continues to serve as CEO of firm. The other core members of the management team are Joseph Drambarean (CTO) and Scott Harrington (CFO).
 
 
 ## Business Activities
+Critical business decisions that hitherto would have meant days/weeks of manual cash processes by clients is reduced by the centralization and digitization of all the various touchpoints across several banks. Traditionally, 90% of a Corporate Treasury/Cash Management team's work is preparing spreadsheets and charts, and only 10% is communicating what the data means for business leaders i.e., the ones who are responsible for making the larger business decisions. Trovata aims to flip that so that 90% is automated, and Treasury, Finance & Accounting teams have more time for analysis that feeds faster decision-making. By digitizing the client's treasury operations and data management with reporting and forecasting best practices in mind, these teams can gain global visibility into their finances. Trovata then provides actionable tips to analyze, report, and forecast cash faster and more accurately.
+
 Trovata helps businesses automate the work it takes to gather and normalize all of its financial data. Trovata lets finance and treasury teams access, build, manage, and control all of their financial data – from banks, business & accounting systems, and external markets – connecting to these sources in near real-time. This helps clients drive efficiencies through ease of access to data, enriched data visualization and workflow automation.
 
-Critical business decisions that hitherto would have meant days/weeks of manual cash processes by clients is reduced by the centralization and digitization of all the various touchpoints across several banks. By digitizing your treasury operations and data management with reporting and forecasting best practices in mind, your treasury can gain global visibility into cash. Use these actionable tips to analyze, report, and forecast faster and more accurately.
+The ideal client for Trovata is one that has several banking relationships and/or may be a multinational corporation operating in several countries across the globe.
 
-* What specific financial problem is the company or project trying to solve?
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
-
-Essentially, we will:
-1. Build UI to get the users to enter their Banks and Accounts details (users will have to select from banks that we already have data connectivity with).
-2. Consolidate, parse and normalize all client account data from all provided sources so that the user can see all the Balances & Transaction Reporting (in Reference Currency USD), and also be able to Initiate Payments from those ‘Multibank’ accounts from a single channel.
-3. Build Management Reporting for internal (i.e. Bank or Fintech’s) consumption that will detail the quarterly/yearly growth in number of multibank accounts, geo-locations of the banks/accounts serviced by our product, user profile (gender, age, etc) of users of our service, monthly balance trends, etc.
+In the US, Trovata has the first-mover advantage - it currently has more than 50 Corporate and over 2,000 Open Banking APIs globally that it has developed (and has been in production!) over the past 5 years. In addition, they leverage Machine Learning for some of the value-added services such as Cashflow Forecasting.
 
 
 ## Landscape
-* What domain of the financial industry is the company in?
+Two of the hottest topics right now in the Banking world and among Corporates are 'Open Finance' and 'Open APIs' (aka Open Banking). Trovata provides both in a single platform: They connect to Bank APIs to aggregate balances and transactions and standardize that data across all banks globally to power an entirely new user experience for businesses to manage cash.
 
-* What have been the major trends and innovations of this domain over the last 5–10 years?
-
-* What are the other major companies in this domain?
+Due to increased globalization, business operations - in additional to supply chain dynamics - have become complex. Companies operate in several countries and are forced to have several banking relationships (e.g., a client with operations in China required to maintain accounts with local, in-country banks). The holy grail is to have a single window into all this complexity at least from a banking/financial point of view.
 
 
 ## Results
-* What has been the business impact of this company so far?
 The business impact of Trovata thus far has been significant since its inception just slightly over 5 years ago.
 
+The most important metrics to measure companies in this domain include connectivity, number of clients/users, and revenue generated.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-The most important metrics to measure companies in this domain include conenctivity, number of clients/users, and revenue generated.
-
-* How is your company performing relative to competitors in the same domain?
-Let's take a look at these statistics for the competitor...
+While Trovata has had first mover advantage in the US, there are possible global competitors on the horizon such as Braintree, ErisX, Paystack and ContaAzul. In addition, there are smaller but well-established local/region-specific competitors in Asia (Liquidice, India) and EMEA (Multicash, Germany), as also the global ERP and TMS providers such as SAP and Oracle Applications, all of whom either already have similar products, or are in the process of developing solutions similar to that from Trovata.
 
 
 ## Recommendations
-Expand faster into the regions / truly global neds from clients. If I were to advise the company, I would advise them of xx things. The first would be to attempt to introduce.... as quickly as possible so they can continue to outcompete others such as xx. Furthermore, ...
+Expand faster into the regions / truly global needs from clients. If I were to advise the company, I would advise them of xx things. The first would be to attempt to introduce.... as quickly as possible so they can continue to outcompete others such as xx. Furthermore, ...
+They have stated that their latest Series B funding is to be extend our global reach to include the UK, EU and Australia. 
 
+Trovata aims to help businesses throughout the world freely manage cash – free from data access constraints, free from a reliance on spreadsheets, free from manual work from having to hire more people as the business scales. We may even launch a freemium version of Trovata with rapid self-onboarding and access to rich premium services that can be tailored for your business as needed on demand.
 
-* Why do you think that offering this product or service would benefit the company?
+We will continue to work closely with FIs on innovation and distribution. We will also continue to rapidly expand our API connectivity globally to help open banking reach a tipping point to enable better, faster, and smarter services for banks and their clients.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+We are expanding in the UK, EU, and Australia and expanding our platform’s capabilities to include payment services such as wires, ACH, transfers, and real-time payments (RTP). We’re also working to offer pay-by-bank services in the UK and EU markets to provide a new payment method for e-commerce at checkout, which will fill current gaps in the market such as automatic refunds, and reconciliation as a white-labelled SDK for our bank partners.
 
 
 ## References:
 [Trovata Official Site](https://trovata.io/)
-[Competitor in Asia] (https://omniscient.co.in/liquidice/)
+
 ![Image text] <image>
-
-
