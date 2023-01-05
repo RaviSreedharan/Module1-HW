@@ -5,7 +5,7 @@
 Recent developments in Open Banking interfaces and the arrival of some financial consolidator apps/fintechs (such as Plaid, Yodlee and Klarna) have made it possible for clients with multiple banking relationships to service all of their regular banking needs (such as Payment Initiation, Account Balances & Transaction Reporting and/or Data Analytics) via a single electronic channel/portal. Note that this is already a well-accepted and well-established offering in Europe (enabled mostly due to regulatory mandates such as the 'Second Payment Services Directive' i.e., PSD2 across Europe, which standardized Open Banking requests for Payment Initiation and Account Reporting across the banks operating in the region). In the US there currently is no comparable initiative from the banking community/regulator for standardization across banks, however the availability of Open Banking/API from most of these banks in the last few years has enabled several tech organizations (such as the aforementioned Plaid and Yodlee) to build interfaces to several banks and offer these connectivity solutions to businesses (i.e. other Fintechs) that may then supplement that with their own direct connectivity options and consolidate all of that data to create even more-value-added services such as Data Visualizations, Cash Forecasting, etc.
 
 One of the pioneers and the most successful fintechs in this space is **Trovata**, and that is company that I have chosen to build a case-study on.
- 
+
 ![Trovata Logo](./Resources/trovata_logo.jpg)
 
 Trovata took on the task of - and successfully managed to - come up with a single-banking channel portal, harnessing latest developments in Open Banking, Machine Learning, and also the _ _inherent_ _ limitations in the individual banks' current Cash Management offerings to build a solution that allowed clients to consolidate, view and manage multiple banking accounts through a single interface,  making it easier for these businesses to see the full picture of all their finances across the various regions/banks that they operate in/deal with!  The value-added features made available by Trovata is automated cash reporting, cash forecasting, financial analysis, and money movement, helping companies gain powerful insights into their cash flows and facilitate better and quicker business decisions.
@@ -61,7 +61,7 @@ The business impact of Trovata thus far has been significant since its inception
 While Trovata has had first mover advantage in the US, there are possible global competitors on the horizon such as Braintree, ErisX, Paystack and ContaAzul. In addition, there are smaller but well-established local/region-specific competitors in Asia (Liquidice, India) and EMEA (Multicash, Germany), as also the global ERP and TMS providers such as SAP and Oracle Applications, all of whom either already have similar products, or are in the process of developing solutions similar to that from Trovata.
 
 In their own words, Trovata is... 
-> "Building the future of Cash Management!"
+> **"Building the future of Cash Management!"**
 
 
 ## Recommendations
